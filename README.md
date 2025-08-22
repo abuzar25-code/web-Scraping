@@ -1,4 +1,4 @@
-Python-WebScraping
+PYTHON - Web Scraping
 
 This project is webscraping project & i scrap the pokemon data tabel
 
